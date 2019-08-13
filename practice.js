@@ -130,7 +130,7 @@ function faveColorFinder(color){
   if(color === 'red' ){
     return `red is a great color`
   }
-  else if(color=== 'green'){
+  else if(color === 'green'){
     return `green is a solid favorite color`
   }
   else if (color === 'black'){
